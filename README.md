@@ -1,16 +1,46 @@
-### Hi there 👋
+# Kails github
 
-<!--
-**kail-cali/kail-cali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>
+> :mechanical_arm: `engineer`,   
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- Kail's backend github
+
+  
+
+
+## ⭐ stack
+### platforms & languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-3a3535.svg?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+   
+   
+
+
+###  🚀 I can do this all day 
+
+
+ 
+
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kail-cali&&show_icons=true&theme=cobalt)
+
+
+
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Kail-cali&count_bg=%23333532&title_bg=%2342FF74&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
+> 🏄🏼‍♂️now, even better
+> 
+
+
+
+
+
+
