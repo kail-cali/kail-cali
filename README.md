@@ -13,7 +13,7 @@
 ## ⭐ stack
 ### platforms & languages
 
-![GOlang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=00ADD8)
+![GOlang](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Linux](https://img.shields.io/badge/Linux-3a3535.svg?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
