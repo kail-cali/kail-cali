@@ -35,7 +35,7 @@
 
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%Kail-cali&count_bg=%23333532&title_bg=%2342FF74&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%kail-cali&count_bg=%23333532&title_bg=%2342FF74&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 > 🏄🏼‍♂️now, even better
 > 
