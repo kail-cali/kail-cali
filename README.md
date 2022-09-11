@@ -37,7 +37,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkail-cali%2Fkail-cali&count_bg=%23A4B498&title_bg=%2364D328&icon=&icon_color=%239A2B2B&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-> 🏄🏼‍♂️now, even better
+> 🏄🏼‍♂️ hope is here
 > 
 
 
