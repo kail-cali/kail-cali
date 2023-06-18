@@ -10,11 +10,13 @@
 
 ```
 
-## ⭐ stack
+> `Backend Developer`
+> Learning on distributed processing
 
+## YOU WELCOME
+- there is some of repo for you
+- I would provide base system program and some of Base-Setting
 
-![Linux](https://img.shields.io/badge/Linux-3a3535.svg?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
